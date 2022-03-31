@@ -1,0 +1,60 @@
+.contenedor{
+	background-color: blue;
+	display: flex-block;
+}
+.logo{
+	float: left;
+	display: inline-block;
+}
+footer{
+	background-color: grey;
+}
+p{
+	color: white;
+	display: inline;
+
+	text-align: center;
+}
+.subtitulo{
+		color: white;
+	display: inline;
+	margin-left: 20%;
+
+	text-align: center;
+}
+h2{
+	color: white;
+
+	text-align: center; 
+}
+h1{
+	background-color: red;
+	font-size: 20px;
+	float: right;
+	padding-top: 25px;
+	padding-bottom: 25px;
+
+	text-align: center; margin-right: 35%;
+}
+.azul{
+	background-color: blue;
+		padding-top: 25px;
+	padding-bottom: 25px;
+}
+input{
+	background-color: none;
+	text-decoration: NONE;
+
+}
+FORM{
+	text-align: center;
+}
+.ENVIAR{
+	background-color: RED;
+	padding: 20PX;
+	text-decoration: NONE;
+	border: NONE;
+	color: WHITE;
+}
+
+.footer {text-align: center;}
